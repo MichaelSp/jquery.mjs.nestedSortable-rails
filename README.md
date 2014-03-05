@@ -28,6 +28,14 @@ Or install it yourself as:
 
     $ gem install jquery-mjs-nestedSortable-rails
 
+Add this to your `assets/javascripts/application.js`:
+
+    //= require jquery.mjs.nestedSortable
+
+or your `assets/javascripts/application.js.coffee`:
+
+    #= require jquery.mjs.nestedSortable
+
 ## Usage
 
 ```
