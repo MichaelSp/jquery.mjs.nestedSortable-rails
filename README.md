@@ -29,7 +29,8 @@ Also:
 
 Add this line to your application's Gemfile:
 
-    gem 'jquery-mjs-nestedSortable-rails'
+    gem 'jquery-mjs-nestedSortable-rails', '~> 2.0.0.pre.alpha.pre.1'
+    gem 'jquery-mjs-nestedSortable-rails', '~> 1.3.5'
 
 And then execute:
 
